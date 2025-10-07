@@ -9,3 +9,8 @@ Flappy Bird, endless side-scroller with obstacles and scores. Remake. <br/>
 Repo: https://github.com/yasukawa426/flappy-bird-clone <br/>
 
 <img src="https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/flappy%20bird%20thumb.png" width="400">
+
+## Game 2 - Jetpack Joyride
+Still WIP 
+
+Repo: https://github.com/yasukawa426/jetpack-joyride-clone
