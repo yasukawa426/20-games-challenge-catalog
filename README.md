@@ -16,3 +16,8 @@ Jetpack Joyride clone, I took more libertities this time, tho. <br/>
 Repo: https://github.com/yasukawa426/jetpack-joyride-clone
 
 <img src= "https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/knight%20thumb.png" height = "434">
+
+## Game 3 - Space Invaders
+The core concept here will be developing my own assets. For this game, I will create the sprites, sound effects, particle effects, and possibly music.
+
+WIP
