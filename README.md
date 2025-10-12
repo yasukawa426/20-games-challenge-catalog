@@ -8,9 +8,11 @@ Flappy Bird, endless side-scroller with obstacles and scores. Remake. <br/>
 **Concepts Learned**: game engine basics, creating/destroying/moving objects, processing player input, detecting/reacting to collisions. <br/>
 Repo: https://github.com/yasukawa426/flappy-bird-clone <br/>
 
-<img src="https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/flappy%20bird%20thumb.png" width="400">
+<img src="https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/flappy%20bird%20thumb.png" height="434">
 
 ## Game 2 - Jetpack Joyride
-Still WIP 
-
+Jetpack Joyride clone, I took more libertities this time, tho. <br/>
+**Concepts Learned**: classes and inheritance in GDScript, proper parallaxing, a little of animation player, runtime node instanciation and signal handling. <br/>
 Repo: https://github.com/yasukawa426/jetpack-joyride-clone
+
+<img src= "https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/knight%20thumb.png" height = "434">
