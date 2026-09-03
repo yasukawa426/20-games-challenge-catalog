@@ -21,3 +21,9 @@ Repo: https://github.com/yasukawa426/jetpack-joyride-clone
 The core concept here will be developing my own assets. For this game, I will create the sprites, sound effects, particle effects, and possibly music.
 
 WIP
+
+## Game ?? - SURVIVE 5 MINUTES
+Simple top-down shooter. All sprites were made by me.
+Repo: https://github.com/yasukawa426/top-down-shooter
+
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/survive_5_minutes_thumb.png" height = "434">
