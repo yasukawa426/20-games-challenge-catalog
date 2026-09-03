@@ -23,7 +23,8 @@ The core concept here will be developing my own assets. For this game, I will cr
 WIP
 
 ## Game ?? - SURVIVE 5 MINUTES
-Simple top-down shooter. All sprites were made by me. <br/>
+Simple top-down shooter. All sprites were made by me. I added some visual effects to polish a little of the game, but the highlight in my opinion were the SFX. They made the game so much better, it's crazy. <br/>
+**Concepts Learned**: Some shading, tween animation, particle effects, first time using hit-stops, some pixel-art. <br/>
 Repo: https://github.com/yasukawa426/top-down-shooter
  
 <img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/survive_5_minutes_thumb.png" height = "434">
