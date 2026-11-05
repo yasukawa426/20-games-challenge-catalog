@@ -25,8 +25,8 @@ Repo: https://github.com/yasukawa426/jetpack-joyride-clone
 Space Invaders clone, but with one catch: I made all the art myself. I drew all the sprites using [LibreSprite](https://libresprite.github.io/#!/). I also changed the theme a bit. Instead of aliens, angels are invading Earth.
 
 <p>
-<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/alien%20invaders%20thumb.png" height = "300">
-<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/thumb%20-%20dead.jpg" height = "300">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/alien%20invaders%20thumb.png" height = "250">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/thumb%20-%20dead.jpg" height = "250">
 </p>
 
 **Concepts Learned**: a little about shaders and what you can do with them, libresprite, complex enemy behavior. <br/>
