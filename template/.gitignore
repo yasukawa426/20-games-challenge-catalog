@@ -1,0 +1,11 @@
+.godot/
+*.translation
+export_presets.cfg
+override.cfg
+*.import
+.mono/
+/android/
+# Time tracker addon
+project_time_tracker.json
+*.tmp
+export/
