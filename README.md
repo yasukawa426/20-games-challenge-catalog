@@ -10,7 +10,7 @@ Flappy Bird, endless side-scroller with obstacles and scores. Remake. <br/>
 **Concepts Learned**: game engine basics, creating/destroying/moving objects, processing player input, detecting/reacting to collisions. <br/>
 Repo: https://github.com/yasukawa426/flappy-bird-clone <br/>
 
-<img src="https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/flappy%20bird%20thumb.png" height="434">
+<img src="https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/flappy%20bird%20thumb.png" height="434">
 
 ## Game 2 - Jetpack Joyride
 
@@ -18,15 +18,15 @@ Jetpack Joyride clone, I took more libertities this time, tho. <br/>
 **Concepts Learned**: classes and inheritance in GDScript, proper parallaxing, a little of animation player, runtime node instanciation and signal handling. <br/>
 Repo: https://github.com/yasukawa426/jetpack-joyride-clone
 
-<img src= "https://github.com/yasukawa426/20-games-challenge-catalog/blob/main/knight%20thumb.png" height = "434">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/knight%20thumb.png" height = "434">
 
 ## Game 3 - Space Invaders
 
 Space Invaders clone, but with one catch: I made all the art myself. I drew all the sprites using [LibreSprite](https://libresprite.github.io/#!/). I also changed the theme a bit. Instead of aliens, angels are invading Earth.
 
 <p>
-<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/alien%20invaders%20thumb.png" height = "250">
-<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/thumb%20-%20dead.jpg" height = "250">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/alien%20invaders%20thumb.png" height = "250">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/thumb%20-%20dead.jpg" height = "250">
 </p>
 
 **Concepts Learned**: a little about shaders and what you can do with them, libresprite, complex enemy behavior. <br/>
