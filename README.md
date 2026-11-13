@@ -1,17 +1,17 @@
-# 20 Games Challenge Catalog  <!-- omit in toc -->
+# 20 Games Challenge Catalog <!-- omit in toc -->
 
 [20 games challenge's](https://20_games_challenge.gitlab.io/) goal is to create 20 small games as a fun and practical way to learn game development. The first 10 focus on fundamentals and introducing key concepts, while the last 10 are chosen from a curated list of games related to the games you want to make.
 
 This repo is catalogue of all my projects for the challenge. Each game has its own repository, and they will all be linked here as they're done. All the games will (probably) be developed using [Godot.](https://godotengine.org/)
 
 ## Table of Contents <!-- omit in toc -->
+
 - [1. Flappy Bird](#1-flappy-bird)
 - [2. Jetpack Joyride](#2-jetpack-joyride)
 - [3. Space Invaders](#3-space-invaders)
 - [4. Asteroids](#4-asteroids)
 - [5. Conway's Game of Life](#5-conways-game-of-life)
-- [6. ??. SURVIVE 5 MINUTES](#6--survive-5-minutes)
-
+- [??. SURVIVE 5 MINUTES](#-survive-5-minutes)
 
 ## 1. Flappy Bird
 
@@ -42,7 +42,8 @@ Space Invaders clone, but with one catch: I made all the art myself. I drew all 
 Repo: https://github.com/yasukawa426/space-invaders-godot/
 
 ## 4. Asteroids
-Asteroids clone. My personal goal this time was no scope creep and just try to finish it as soons as possible. I think it took me 3 days to get it done so pretty good. I could have finished faster but I procrastinated a bit. 
+
+Asteroids clone. My personal goal this time was no scope creep and just try to finish it as soons as possible. I think it took me 3 days to get it done so pretty good. I could have finished faster but I procrastinated a bit.
 
 <img src = "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/asteroids_thumb.png" height = "434>
 
@@ -50,12 +51,18 @@ Asteroids clone. My personal goal this time was no scope creep and just try to f
 Repo: https://github.com/yasukawa426/asteroids-clone-godot
 
 ## 5. Conway's Game of Life
-WIP
+
+Its [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implemented in Godot. Made in 2 days!
+
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/conways-thumb.png" height = "434">
+
+Repo: https://github.com/yasukawa426/conways-life-game-godot
 
 ## ??. SURVIVE 5 MINUTES
 
 Simple top-down shooter. All sprites were made by me. I added some visual effects to polish a little of the game, but the highlight in my opinion were the SFX. They made the game so much better, it's crazy. <br/>
 **Concepts Learned**: Some shading, tween animation, particle effects, first time using hit-stops, some pixel-art. <br/>
+
 Repo: https://github.com/yasukawa426/top-down-shooter
 
-<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/survive_5_minutes_thumb.png" height = "434">
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/survive_5_minutes_thumb.png" height = "434">
