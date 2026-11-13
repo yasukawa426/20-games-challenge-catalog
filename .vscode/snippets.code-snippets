@@ -29,7 +29,7 @@
     "scope": "markdown",
     "prefix": "new game",
     "body": [
-      "## ${1: x}. ${2: Game name}",
+      "### ${1: x}. ${2: Game name}",
       "WIP",
       " ",
       "**Concepts Learned**: WIP",
