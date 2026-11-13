@@ -11,6 +11,7 @@ This repo is catalogue of all my projects for the challenge. Each game has its o
 - [3. Space Invaders](#3-space-invaders)
 - [4. Asteroids](#4-asteroids)
 - [5. Conway's Game of Life](#5-conways-game-of-life)
+- [6. 2D platformer](#6-2d-platformer)
 - [??. SURVIVE 5 MINUTES](#-survive-5-minutes)
 
 ## 1. Flappy Bird
@@ -57,6 +58,13 @@ Its [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Lif
 <img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/conways-thumb.png" height = "434">
 
 Repo: https://github.com/yasukawa426/conways-life-game-godot
+
+## 6. 2D platformer
+
+WIP
+
+**Concepts Learned**: WIP
+Repo: WIP
 
 ## ??. SURVIVE 5 MINUTES
 
