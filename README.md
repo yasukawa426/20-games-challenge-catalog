@@ -49,7 +49,7 @@ Repo: https://github.com/yasukawa426/space-invaders-godot/
 
 Asteroids clone. My personal goal this time was no scope creep and just try to finish it as soons as possible. I think it took me 3 days to get it done so pretty good. I could have finished faster but I procrastinated a bit.
 
-<img src = "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/asteroids_thumb.png" height = "434>
+<img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/asteroids_thumb.png" height= "434">
 
 **Concepts Learned**: polygons, animation player (very cool), less ugly menus. <br/>
 Repo: https://github.com/yasukawa426/asteroids-clone-godot
