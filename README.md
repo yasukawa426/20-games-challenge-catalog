@@ -1,8 +1,17 @@
-# 20 Games Challenge Catalog
+# 20 Games Challenge Catalog  <!-- omit in toc -->
 
 [20 games challenge's](https://20_games_challenge.gitlab.io/) goal is to create 20 small games as a fun and practical way to learn game development. The first 10 focus on fundamentals and introducing key concepts, while the last 10 are chosen from a curated list of games related to the games you want to make.
 
 This repo is catalogue of all my projects for the challenge. Each game has its own repository, and they will all be linked here as they're done. All the games will (probably) be developed using [Godot.](https://godotengine.org/)
+
+## Table of Contents <!-- omit in toc -->
+- [1. Flappy Bird](#1-flappy-bird)
+- [2. Jetpack Joyride](#2-jetpack-joyride)
+- [3. Space Invaders](#3-space-invaders)
+- [4. Asteroids](#4-asteroids)
+- [5. Conway's Game of Life](#5-conways-game-of-life)
+- [6. ??. SURVIVE 5 MINUTES](#6--survive-5-minutes)
+
 
 ## 1. Flappy Bird
 
