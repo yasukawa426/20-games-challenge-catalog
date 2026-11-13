@@ -4,7 +4,7 @@
 
 This repo is catalogue of all my projects for the challenge. Each game has its own repository, and they will all be linked here as they're done. All the games will (probably) be developed using [Godot.](https://godotengine.org/)
 
-## Game 1 - Flappy Bird
+## 1. Flappy Bird
 
 Flappy Bird, endless side-scroller with obstacles and scores. Remake. <br/>
 **Concepts Learned**: game engine basics, creating/destroying/moving objects, processing player input, detecting/reacting to collisions. <br/>
@@ -12,7 +12,7 @@ Repo: https://github.com/yasukawa426/flappy-bird-clone <br/>
 
 <img src="https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/flappy%20bird%20thumb.png" height="434">
 
-## Game 2 - Jetpack Joyride
+## 2. Jetpack Joyride
 
 Jetpack Joyride clone, I took more libertities this time, tho. <br/>
 **Concepts Learned**: classes and inheritance in GDScript, proper parallaxing, a little of animation player, runtime node instanciation and signal handling. <br/>
@@ -20,7 +20,7 @@ Repo: https://github.com/yasukawa426/jetpack-joyride-clone
 
 <img src= "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/knight%20thumb.png" height = "434">
 
-## Game 3 - Space Invaders
+## 3. Space Invaders
 
 Space Invaders clone, but with one catch: I made all the art myself. I drew all the sprites using [LibreSprite](https://libresprite.github.io/#!/). I also changed the theme a bit. Instead of aliens, angels are invading Earth.
 
@@ -32,7 +32,7 @@ Space Invaders clone, but with one catch: I made all the art myself. I drew all 
 **Concepts Learned**: a little about shaders and what you can do with them, libresprite, complex enemy behavior. <br/>
 Repo: https://github.com/yasukawa426/space-invaders-godot/
 
-## Game 4 - Asteroids
+## 4. Asteroids
 Asteroids clone. My personal goal this time was no scope creep and just try to finish it as soons as possible. I think it took me 3 days to get it done so pretty good. I could have finished faster but I procrastinated a bit. 
 
 <img src = "https://raw.githubusercontent.com/yasukawa426/20-games-challenge-catalog/refs/heads/main/img/asteroids_thumb.png" height = "434>
@@ -40,10 +40,10 @@ Asteroids clone. My personal goal this time was no scope creep and just try to f
 **Concepts Learned**: polygons, animation player (very cool), less ugly menus. <br/>
 Repo: https://github.com/yasukawa426/asteroids-clone-godot
 
-## Game 5 - Conway's Game of Life
+## 5. Conway's Game of Life
 WIP
 
-## Game ?? - SURVIVE 5 MINUTES
+## ??. SURVIVE 5 MINUTES
 
 Simple top-down shooter. All sprites were made by me. I added some visual effects to polish a little of the game, but the highlight in my opinion were the SFX. They made the game so much better, it's crazy. <br/>
 **Concepts Learned**: Some shading, tween animation, particle effects, first time using hit-stops, some pixel-art. <br/>
